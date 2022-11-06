@@ -1,0 +1,12 @@
+requests
+types-requests
+cloudscraper
+beautifulsoup4
+lxml
+pandas
+openpyxl
+mypy
+selenium
+webdriver-manager
+types-selenium
+autopep8
